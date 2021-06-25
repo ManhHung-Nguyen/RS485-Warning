@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=MAX485 Pin=ArduinoNano1-D12
+Removed Pin From Net: NetName=NetArduinoNano1_D13 Pin=ArduinoNano1-D13
+Added Pin To Net: NetName=MAX485 Pin=ArduinoNano1-A4
+Added Pin To Net: NetName=NetArduinoNano1_D13 Pin=ArduinoNano1-D12
+Change Net Name : Old Net Name=NetArduinoNano1_D13 New Net Name=NetArduinoNano1_D12

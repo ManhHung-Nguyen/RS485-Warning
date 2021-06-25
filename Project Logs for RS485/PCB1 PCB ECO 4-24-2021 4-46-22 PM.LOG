@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=RX Pin=IC1-1
+Removed Pin From Net: NetName=TX Pin=IC1-4
+Removed Pin From Net: NetName=RX_0 Pin=IC2-1
+Removed Pin From Net: NetName=TX_0 Pin=IC2-4
+Removed Pin From Net: NetName=TX Pin=RN1-2
+Removed Pin From Net: NetName=RX Pin=RN1-5
+Removed Pin From Net: NetName=TX_0 Pin=RN2-2
+Removed Pin From Net: NetName=RX_0 Pin=RN2-5
+Added Pin To Net: NetName=RX_0 Pin=IC1-1
+Added Pin To Net: NetName=TX_0 Pin=IC1-4
+Added Pin To Net: NetName=RX Pin=IC2-1
+Added Pin To Net: NetName=TX Pin=IC2-4
+Added Pin To Net: NetName=TX_0 Pin=RN1-2
+Added Pin To Net: NetName=RX_0 Pin=RN1-5
+Added Pin To Net: NetName=TX Pin=RN2-2
+Added Pin To Net: NetName=RX Pin=RN2-5

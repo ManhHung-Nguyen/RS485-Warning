@@ -1,0 +1,24 @@
+Added Component: Designator=S1(SW-DIP8)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000971"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Switch S? 8P ( Công T?c Bit 8P)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetArduinoNano1_D9 Pin=S1-1
+Added Pin To Net: NetName=NetArduinoNano1_D8 Pin=S1-2
+Added Pin To Net: NetName=NetArduinoNano1_D7 Pin=S1-3
+Added Pin To Net: NetName=NetArduinoNano1_D6 Pin=S1-4
+Added Pin To Net: NetName=NetArduinoNano1_D5 Pin=S1-5
+Added Pin To Net: NetName=NetArduinoNano1_D4 Pin=S1-6
+Added Pin To Net: NetName=NetArduinoNano1_D3 Pin=S1-7
+Added Pin To Net: NetName=NetArduinoNano1_D2 Pin=S1-8
+Added Pin To Net: NetName=GND Pin=S1-9
+Added Pin To Net: NetName=GND Pin=S1-10
+Added Pin To Net: NetName=GND Pin=S1-11
+Added Pin To Net: NetName=GND Pin=S1-12
+Added Pin To Net: NetName=GND Pin=S1-13
+Added Pin To Net: NetName=GND Pin=S1-14
+Added Pin To Net: NetName=GND Pin=S1-15
+Added Pin To Net: NetName=GND Pin=S1-16
+Added Member To Class: ClassName=Sheet1 Member=Component S1 8P

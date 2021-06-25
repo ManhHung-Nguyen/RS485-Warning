@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=10k NewDesignator=RN1
+Added Pin To Net: NetName=GND Pin=ArduinoNano1-GND
+Added Pin To Net: NetName=GND Pin=ArduinoNano1-GND
+Added Pin To Net: NetName=GND Pin=KF2-1
